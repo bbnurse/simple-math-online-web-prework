@@ -1,7 +1,9 @@
-def addition(num1, num2)
+def addition(num1=1, num2=2)
+  puts total = #{num1} + #{num2}
 end
 
-def subtraction(num1, num2)
+def subtraction(num1=4, num2=2)
+  puts
 end
 
 def division(num1, num2)
